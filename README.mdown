@@ -1,0 +1,12 @@
+WellWellWell
+============
+Just call 
+
+```ruby
+
+Well::Well::Well.json_to_xml('"foo":"bar"')
+
+```
+
+
+but with your JSON in the method
